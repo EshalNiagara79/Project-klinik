@@ -1,20 +1,19 @@
 # 🏥 Project Klinik – Web Programming
 
 ## 📌 Deskripsi
-Project ini merupakan aplikasi **Klinik** yang dibuat untuk memenuhi tugas mata kuliah **Web Programming**.  
+Project ini merupakan aplikasi **Klinik** yang dibuat untuk tugas StudentDay **Web Programming**.  
 Aplikasi ini dirancang untuk mengelola data pasien dengan fitur sederhana yang mudah digunakan.  
 
 ---
 
-## 📂 Fitur Utama
-1. **Halaman Login**  
-   - User harus login terlebih dahulu untuk dapat mengakses sistem.  
-   - Validasi username dan password sederhana.  
+## 📂 Aplikasi Project Klinik
+1. Persiapan Project
+2. Migration
+3. Seeder
+4. Controller, Model, View dan Route
+5. Menampilkan Data Pasien
 
-2. **Halaman Data Pasien**  
-   - Menampilkan data pasien dalam bentuk tabel.  
-   - CRUD (Create, Read, Update, Delete) sederhana untuk data pasien.  
-
+## Asset NPM
 ---
 
 ## 🛠️ Teknologi yang Digunakan
