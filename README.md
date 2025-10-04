@@ -31,4 +31,4 @@ Aplikasi ini dirancang untuk mengelola data pasien dengan fitur sederhana yang m
 ## ⚙️ Cara Menjalankan Project
 1. Clone repository ini:  
    ```bash
-   git clone https://github.com/username/project-klinik.git
+   git clone https://github.com/EshalNiagara79/Project-klinik.git
