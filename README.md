@@ -22,7 +22,9 @@ Aplikasi ini dirancang untuk mengelola data pasien dengan fitur sederhana yang m
 - **Bootstrap** – framework CSS untuk tampilan responsif.  
 - **XAMPP** – sebagai server lokal (Apache, MySQL, PHPMyAdmin).  
 - **MySQL** – database untuk menyimpan data pasien.  
-- **Google Chrome** – browser utama untuk menjalankan aplikasi.  
+- **Google Chrome** – browser utama untuk menjalankan aplikasi.
+- **JavaScript** -
+- **CSS**
 
 ---
 
