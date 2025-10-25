@@ -38,6 +38,18 @@
                                         </td>
                                         <td>{{ $item->jenis_kelamin }}</td>
                                         <td>{{ $item->alamat }}</td>
+                                         
+                                            <div class="d-flex gap-2">
+                                           <a    href     = "{{ route('pasien.edit', $item->id) }}" class             = "btn btn-warning btn-sm text-white">Edit</a>
+                                           <form action   = "{{ route('pasien.destroy', $item->id) }}" method         = "POST"
+                                                 onsubmit = "return confirm('Yakin ingin menghapus data ini?')" style = "display:inline;">
+                                                    @csrf
+                                                    @method('DELETE')
+                                                    <button type = "submit" class = "btn btn-danger btn-sm">Hapus</button>
+                                </form>
+                            </div>
+                             </td>
+                        </tr>
                                     </tr>
                                 @endforeach
                             </tbody>
